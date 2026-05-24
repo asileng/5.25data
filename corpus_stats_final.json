@@ -1,0 +1,15 @@
+{
+  "total": 1629,
+  "by_source": {
+    "Executive Order 14179": 25,
+    "Executive Order 14255": 14,
+    "Executive Order 14192": 51,
+    "Executive Order 14110": 769,
+    "NIST AI 100-1": 521,
+    "America's AI Action Plan": 249
+  },
+  "by_government": {
+    "特朗普政府": 339,
+    "拜登政府": 1290
+  }
+}
